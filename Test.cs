@@ -14,7 +14,7 @@ namespace Test1 {
         //Variables-----/
 		
         public RenderingThread()
-            : base(800, 600, new GraphicsMode(new ColorFormat()), "Window") {
+            : base(800, 600, GraphicsMode.Default, "Window") {
             VSync = VSyncMode.On;
         }
 
