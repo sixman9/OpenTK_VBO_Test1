@@ -7,3 +7,4 @@ bin/
 *.suo 
 *.user 
 obj/
+OpenTKVBOTest1.userprefs OpenTK_VBO_Test1.userprefs
